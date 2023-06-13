@@ -1,0 +1,6 @@
+    1  git status
+    2  history aula4.txt
+    3  history > aula_4. txt
+    4  git status 
+    5  git commit ' commit de aula_4'
+    6  history > aula_4.txt
